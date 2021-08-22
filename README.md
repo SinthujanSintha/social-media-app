@@ -18,6 +18,8 @@ npm start
 ## This is Link for the deployed of this App in the cloud.
 
 ## [FaceBook Clone Hosted App](https://facebook-clone-d7b54.web.app/) 
+&nbsp;
+### To add the post in real time just type something in news feed and insert the image url if you want a post with image and press **Enter** The post will appear below.
 
 ## Here are the some snap shots of this App.
  &nbsp;
